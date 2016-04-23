@@ -6,11 +6,6 @@
 - title: Articles
   url: /articles/
 
-- title: Blog
-  url: /blog/
+- title: Home
+  url: "http://brooksandrew.github.io"
 
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Search
-  url: /search/
