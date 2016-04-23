@@ -16,10 +16,5 @@ I write about data science side projects with occasional tangents for travel and
 
 Personal website: [brooksandrew.github.io]
 
-[brooksandrew.github.io]: http://brooksandrew.github.io
+[brooksandrew.github.io]: http://giovanicr.com
 [Elder Research]: http://datamininglab.com/
-
-
-
-
-
