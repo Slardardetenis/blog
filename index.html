@@ -1,11 +1,14 @@
 ---
-layout: page
-title: Latest Posts
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+layout: archive
+author_profile: true
 ---
 
-<ul class="post-list">
-{% for post in site.posts limit:10 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+{% include base_path %}
+
+<h3 class="archive__subtitle">Recent Posts</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
 {% endfor %}
-</ul>
+
+{% include paginator.html %}
