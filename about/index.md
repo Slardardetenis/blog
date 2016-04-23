@@ -14,7 +14,7 @@ I'm a Data Scientist at a smallish data mining consulting company in DC called [
 I write about data science side projects with occasional tangents for travel and photographs.
 
 
-Personal website: [brooksandrew.github.io]
+Personal website: [giovanicr.com]
 
-[brooksandrew.github.io]: http://giovanicr.com
+[giovanicr.com]: http://giovanicr.com
 [Elder Research]: http://datamininglab.com/
